@@ -2952,7 +2952,6 @@ th.hide-for-touch {
 }
 #cssmenu ul {
   text-transform: uppercase;
-  float: right;
 }
 #cssmenu ul ul {
   border-top: 4px solid #CC3300;
